@@ -1,0 +1,41 @@
+
+/*body {
+  background-color: BLACK;
+  color: turquoise;
+  margin: 10%;
+
+}*/
+
+body {
+	background-color: lightgray;
+}
+
+p {
+  font-size: 14pt;
+}
+
+h1 {
+  font-size: 30pt;
+}
+
+/*#goal-list li {
+ this is used if I want to targe the li items within the goal-list
+}
+*/
+#goal-list {
+	border-style: dashed;
+	width: 200px;
+	border-color: #FF001C
+}
+
+#picture {
+	height: 50%;
+	float: right;
+	border: solid;
+
+}
+
+.list-item {
+	font-family: monospace;
+}
+
